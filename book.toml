@@ -1,0 +1,6 @@
+[book]
+authors = ["Benjamin Reed"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Git Cookbook"
