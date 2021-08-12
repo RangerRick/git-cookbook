@@ -1,5 +1,5 @@
 What if I crowd-sourced a cookbook in Git?
-What a dumb idea.
+What a ridiculous idea.
 
 Well here it is.  :D
 
