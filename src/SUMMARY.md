@@ -2,8 +2,11 @@
 
 [Introduction](./intro.md)
 
-- [Chapter 1: Breads](./breads/breads.md)
+- [Breads](./breads/breads.md)
     - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
 
-- [Chapter 2: Main Courses](./mains/mains.md)
+- [Main Courses](./mains/mains.md)
     - [Detroit Style Pizza](./mains/detroit-style-pizza.md)
+
+- [Cocktails](./cocktails/cocktails.md)
+    - [Thai Basil Gimlet](./cocktails/thai-basil-gimlet.md)
