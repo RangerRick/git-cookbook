@@ -6,18 +6,18 @@ commands:
       - restore_cache:
           name: Restore Rust Cargo Cache
           keys:
-            - cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
-            - cargo-cache-v1-{{ .Branch }}-
-            - cargo-cache-v1-
+            - cargo-cache-v2-{{ .Branch }}-{{ .Revision }}
+            - cargo-cache-v2-{{ .Branch }}-
+            - cargo-cache-v2-
       - run: cargo --version
       - run: cargo install mdbook
   save-cargo:
     steps:
       - save_cache:
           name: Save Rust Cargo Cache
-          key: cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
+          key: cargo-cache-v2-{{ .Branch }}-{{ .Revision }}
           paths:
-            - "/usr/local/cargo"
+            - "~/.cargo"
 
   do-build:
     steps:
