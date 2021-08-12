@@ -18,6 +18,7 @@ commands:
           key: cargo-cache-v2-{{ .Branch }}-{{ .Revision }}
           paths:
             - "~/.cargo"
+            - "/usr/local/cargo"
 
   do-build:
     steps:
