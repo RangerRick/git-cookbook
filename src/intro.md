@@ -15,6 +15,11 @@ track of these?" and the obvious answer is, of course, a real git repo.
 I found [mdbook](https://rust-lang.github.io/mdBook/) from the Rust folks, and
 figured, what the hell?
 
+# How to Contribute
+
+Go to the [GitHub page](https://github.com/RangerRick/git-cookbook/), fork the
+repository, create your own recipe, and then make a pull request.
+
 # A Note About Copyright
 
 Copyright on recipes [is tricky](https://www.copyrightlaws.com/copyright-protection-recipes/).
