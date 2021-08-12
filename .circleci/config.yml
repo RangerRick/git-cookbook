@@ -45,6 +45,11 @@ jobs:
     steps:
       - checkout
       - run:
+          name: Set up Git config
+          command: |
+            git config user.name 'CircleCI Automated Commit'
+            git config user.email 'github@raccoonfink.com'
+      - run:
           name: Merge main to GitHub pages
           command: |
             git fetch --all
