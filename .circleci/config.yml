@@ -65,7 +65,7 @@ jobs:
           command: rsync -avr --delete book/ docs/
       - add_ssh_keys:
           fingerprints:
-            - "8a:75:48:b0:a2:c5:9d:53:05:11:4c:bd:3f:31:b4:7a"
+            - "e2:9d:2b:32:9c:46:e1:c4:df:16:e1:ed:51:bd:63:a4"
       - run:
           name: Commit and Push Updated Artifacts
           command: |
