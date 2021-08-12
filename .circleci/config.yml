@@ -23,7 +23,9 @@ commands:
     steps:
       - run:
           name: Run Build
-          command: /usr/local/cargo/bin/mdbook build
+          command: |
+            /usr/local/cargo/bin/mdbook clean
+            /usr/local/cargo/bin/mdbook build
 
 jobs:
   build:
