@@ -17,13 +17,13 @@ commands:
           name: Save Rust Cargo Cache
           key: cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
           paths:
-            - "~/.cargo"
+            - "/usr/local/cargo"
 
   do-build:
     steps:
       - run:
           name: Run Build
-          command: ~/.cargo/bin/mdbook build
+          command: /usr/local/cargo/bin/mdbook build
 
 jobs:
   build:
