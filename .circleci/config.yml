@@ -57,12 +57,6 @@ jobs:
             git merge -m 'automated merge from main -> pages' --log main
       - restore-cargo
       - do-build
-      - run:
-          name: Install rsync
-          command: apt-get update && apt-get -y install rsync
-      - run:
-          name: Sync build output to docs/
-          command: rsync -avr --delete book/ docs/
       - add_ssh_keys:
           fingerprints:
             - "e2:9d:2b:32:9c:46:e1:c4:df:16:e1:ed:51:bd:63:a4"
