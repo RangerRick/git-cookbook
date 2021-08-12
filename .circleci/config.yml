@@ -17,7 +17,6 @@ commands:
           name: Save Rust Cargo Cache
           key: cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
           paths:
-            - "~/.cargo"
             - "/usr/local/cargo"
 
   do-build:
