@@ -1,0 +1,87 @@
+version: 2.1
+
+commands:
+  restore-cargo:
+    steps:
+      - restore_cache:
+          name: Restore Rust Cargo Cache
+          keys:
+            - cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
+            - cargo-cache-v1-{{ .Branch }}-
+            - cargo-cache-v1-
+      - run: cargo --version
+      - run: cargo install mdbook
+  save-cargo:
+    steps:
+      - save_cache:
+          name: Save Rust Cargo Cache
+          key: cargo-cache-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - "~/.cargo"
+
+  do-build:
+    steps:
+      - run:
+          name: Run Build
+          command: ~/.cargo/bin/mdbook build
+
+jobs:
+  build:
+    docker:
+      - image: rust:latest
+        environment:
+          TZ: "America/New_York"
+    steps:
+      - checkout
+      - restore-cargo
+      - do-build
+      - save-cargo
+  pages:
+    docker:
+      - image: rust:latest
+        environment:
+          TZ: "America/New_York"
+    steps:
+      - checkout
+      - run:
+          name: Merge main to GitHub pages
+          command: |
+            git fetch --all
+            git checkout pages
+            git reset --hard origin/pages
+            git merge -m 'automated merge from main -> pages' --log main
+      - restore-cargo
+      - do-build
+      - run:
+          name: Install rsync
+          command: sudo apt-get update && sudo apt-get -y install rsync
+      - run:
+          name: Sync build output to docs/
+          command: rsync -avr --delete book/ docs/
+      - add_ssh_keys:
+          fingerprints:
+            - "8a:75:48:b0:a2:c5:9d:53:05:11:4c:bd:3f:31:b4:7a"
+      - run:
+          name: Commit and Push Updated Artifacts
+          command: |
+            git add -A
+            if [ `git diff HEAD | wc -l` -gt 0 ]; then
+              echo "changes detected; committing updated docs/"
+              git commit -m 'build: automated merge from main'
+            fi
+            git push origin pages:pages
+
+workflows:
+  build-and-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: main
+      - pages:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - main
