@@ -3,6 +3,7 @@
 [Introduction](./intro.md)
 
 - [Breads](./breads/breads.md)
+    - [Sourdough Cinnamon Buns](./breads/sourdough-cinnamon-buns.md)
     - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
 
 - [Main Courses](./mains/mains.md)
