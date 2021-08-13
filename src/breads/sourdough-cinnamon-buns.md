@@ -12,20 +12,20 @@ Note that if you use active dry yeast rather than instant, you should activate i
 
 ### Dough
 
-* 1 cup (227g) ripe (fed) sourdough starter
-* 3/4 cup (170g) lukewarm milk
+* 227g (1 cup) ripe (fed) sourdough starter
+* 170g (3/4 cup) lukewarm milk
 * 1 large egg
 * 4 tablespoons (57g) butter, softened
-* 2 3/4 cups (326g) King Arthur Unbleached All-Purpose Flour
-* 1/2 cup (57g) King Arthur White Whole Wheat Flour
-* 1/4 cup (50g) granulated sugar
+* 326g (2 3/4 cups) King Arthur Unbleached All-Purpose Flour
+* 57g (1/2 cup) King Arthur White Whole Wheat Flour
+* 50g (1/4 cup) granulated sugar
 * 1 1/2 teaspoons (9g) salt
 * 1 teaspoon instant (or active dry) yeast, optional*
 
 ### Filling
 
-* 3/4 cup (159g) brown sugar, packed
-* 1/4 cup (28g) King Arthur Unbleached All-Purpose Flour
+* 159g (3/4 cup) brown sugar, packed
+* 28g (1/4 cup) King Arthur Unbleached All-Purpose Flour
 * 1 tablespoon cinnamon
 * 1/8 teaspoon salt
 * 1 tablespoon (14g) butter, melted
