@@ -1,4 +1,4 @@
-# Pepcorn -- Spicy Chili Popcorn ([source](https://www.youtube.com/watch?v=3fG8rNHUspU))
+# Pepcorn - Spicy Chili Popcorn ([source](https://www.youtube.com/watch?v=3fG8rNHUspU))
 
 This is based on a recipe for "Pepcorn," a creation of Brian David Gilbert.
 I strongly recommend watching his actual video on how to make it, because it's hilarious.
