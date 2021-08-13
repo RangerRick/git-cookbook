@@ -7,7 +7,7 @@
   - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
 
 - [Snacks](./snacks/snacks.md)
-  - [Pepcorn](./pepcorn.md)
+  - [Pepcorn](./snacks/pepcorn.md)
 
 - [Main Courses](./mains/mains.md)
   - [Detroit Style Pizza](./mains/detroit-style-pizza.md)
