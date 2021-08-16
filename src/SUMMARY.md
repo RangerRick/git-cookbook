@@ -7,6 +7,7 @@
 
 - [Breakfast](./breakfast/breakfast.md)
   - [Sourdough Cinnamon Buns](./breakfast/sourdough-cinnamon-buns.md)
+  - [Sourdough Discard Pancakes](./breakfast/sourdough-discard-pancakes.md)
 
 - [Snacks](./snacks/snacks.md)
   - [Pepcorn](./snacks/pepcorn.md)
