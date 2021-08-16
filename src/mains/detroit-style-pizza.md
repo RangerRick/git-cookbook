@@ -1,15 +1,13 @@
 # Detroit Style Pizza
 
-Detroit style is a lot like a Sicilian, with a foccacia-like chewy dough and extremely crispy crust
-which fries in the liberal amount of oil put in the pan for baking.
+<img src="./detroit-style-finished-pizza.jpg" alt="finished slice" width="33%" style="float:right">
 
-This recipe is made for [this Detroit-style 10x14 pan from LloydPan](https://www.amazon.com/dp/B01FY5PHIK/)
-but should scale easily to other sizes if you adjust the water and flour.
+Detroit style is a lot like a Sicilian, with a foccacia-like chewy dough and extremely crispy crust which fries in the liberal amount of oil put in the pan for baking.
+
+This recipe is made for [this Detroit-style 10x14 pan from LloydPan](https://www.amazon.com/dp/B01FY5PHIK/) but should scale easily to other sizes if you adjust the water and flour.
 The important thing is that the pan needs to be totally flat, so that the crust fries evenly.
 
-## Ingredients
-
-### Dough
+## Ingredients: Dough
 
 * 260g water
 * 325g bread flour
@@ -20,7 +18,7 @@ The important thing is that the pan needs to be totally flat, so that the crust 
 * 2 oz corn (or vegetable) oil for pan
 * a few drops butter flavoring for the oil (optional, but strongly recommended 😃)
 
-### Sauce and Toppings
+### Ingredients: Sauce and Toppings
 
 * 8 oz can pureed tomato
 * 1/2 tsp salt
@@ -39,23 +37,22 @@ In a bowl/mixer add the water at 100-110°F, the yeast and the sugar.
 Allow yeast to bloom for 10 minutes.
 Then add the salt and flour and mix for 5 minutes. (10 minutes or so if hand kneading)
 
-Let your dough rest 15-20 minutes. 
+Let your dough rest 15-20 minutes.
 
 ### Pan Prep
 
-While the dough is resting grab your Detroit style pizza pan and to it add the corn oil and butter
-flavoring and make sure they’re well mixed.  I also recommend using some shortening on the sides
-of the pan so the crust pulls away cleanly during baking.
+While the dough is resting grab your Detroit style pizza pan and to it add the corn oil and butter flavoring and make sure they’re well mixed.  I also recommend using some shortening on the sides of the pan so the crust pulls away cleanly during baking, and it will help keep the tomato sauce from creating a patina.
 
-Lightly oil a work surface and push the dough out flat and form a sort of rectangle,
-pick the dough up and slap it back and forth between your hands to stretch it.
+Lightly oil a work surface and push the dough out flat and form a sort of rectangle, pick the dough up and slap it back and forth between your hands to stretch it.
 If you don't feel comfortable doing this just stretch it out best you can on your work surface.
-Place the dough into your pan and starting with one end push the edges into the corners and
-turn the pan around and do the same with the other side.
+Place the dough into your pan and starting with one end push the edges into the corners and turn the pan around and do the same with the other side.
 Using your fingertips press down hard up one side then up the other over the area of the pan.
 
-Then, cover the pan with a towel and allow to sit out for 4-5 hours at 70-80° or until the dough
-has risen about half way up the pan. Now you can cook it or refrigerate it.
+Then, cover the pan with a towel and allow to sit out for 4-5 hours at 70-80° or until the dough has risen about half way up the pan. Now you can cook it or refrigerate it.
+
+I know 4-5 hours seems like a lot, but you want to wait until it gets lots of air bubbles, like this:
+
+<img src="./detroit-style-crust-rising.jpg" alt="finished slice" width="50%">
 
 ### Sauce
 
@@ -71,4 +68,13 @@ Preheat oven to 500°F.
 
 Bake crust by itself for 6 minutes.
 
-Take it out of the oven, add sauce, mozzarella, and toppings, and bake for another 14 minutes.
+Take it out of the oven, and add your sauce, cheese, and toppings.
+
+Detroit style typically goes right to the edge with sauce and cheese.
+If you have a little shredded cheddar around, sprinkle it around the outside edge to get a nice crispy cheesy rim.
+
+Finish baking for another 14 minutes.
+
+If it cooked right, it should look something like this on the underside of the crust:
+
+![bottom crust](./detroit-style-under-crust.jpg)
