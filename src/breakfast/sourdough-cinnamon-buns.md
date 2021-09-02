@@ -52,8 +52,8 @@ After the autolyse, mix in the salt (and yeast) until fully incorporated, about 
 Turn the mixer up one speed and knead the dough until it’s smooth and supple though still somewhat soft and tacky, about 2 to 3 minutes.
 
 Cover the dough and let it rest in a warm (75°F) place for 4 hours.
-To develop strength in the dough, stretch and fold it in the bowl three to four times during the rest.
-You can be fairly flexible in your timing of these.
+**To develop strength in the dough, stretch and fold it in the bowl three to four times during the rest.**
+You can be fairly flexible in your timing of these, _but I cannot stress to you how important this is, otherwise you will get flat buns_.
 One stretch and fold per hour is ideal.
 The goal is to end up with a strong dough with good elasticity.
 
