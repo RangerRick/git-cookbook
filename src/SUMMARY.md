@@ -3,9 +3,11 @@
 [Introduction](./intro.md)
 
 - [Breads](./breads/breads.md)
+  - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)
   - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
 
 - [Breakfast](./breakfast/breakfast.md)
+  - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)
   - [Sourdough Cinnamon Buns](./breakfast/sourdough-cinnamon-buns.md)
   - [Sourdough Discard Pancakes](./breakfast/sourdough-discard-pancakes.md)
 
