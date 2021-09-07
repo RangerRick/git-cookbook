@@ -1,0 +1,270 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ashkenazi Bagels - The Git Cookbook</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../intro.html">Introduction</a></li><li class="chapter-item expanded "><a href="../breads/breads.html"><strong aria-hidden="true">1.</strong> Breads</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../breakfast/ashkenazi-bagels.html" class="active"><strong aria-hidden="true">1.1.</strong> Ashkenazi Bagels</a></li><li class="chapter-item expanded "><a href="../breads/soft-sandwich-milk-bread.html"><strong aria-hidden="true">1.2.</strong> Soft Sandwich Milk Bread</a></li></ol></li><li class="chapter-item expanded "><a href="../breakfast/breakfast.html"><strong aria-hidden="true">2.</strong> Breakfast</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../breakfast/ashkenazi-bagels.html" class="active"><strong aria-hidden="true">2.1.</strong> Ashkenazi Bagels</a></li><li class="chapter-item expanded "><a href="../breakfast/sourdough-cinnamon-buns.html"><strong aria-hidden="true">2.2.</strong> Sourdough Cinnamon Buns</a></li><li class="chapter-item expanded "><a href="../breakfast/sourdough-discard-pancakes.html"><strong aria-hidden="true">2.3.</strong> Sourdough Discard Pancakes</a></li></ol></li><li class="chapter-item expanded "><a href="../snacks/snacks.html"><strong aria-hidden="true">3.</strong> Snacks</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../snacks/pepcorn.html"><strong aria-hidden="true">3.1.</strong> Pepcorn</a></li></ol></li><li class="chapter-item expanded "><a href="../mains/mains.html"><strong aria-hidden="true">4.</strong> Main Courses</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../mains/detroit-style-pizza.html"><strong aria-hidden="true">4.1.</strong> Detroit Style Pizza</a></li><li class="chapter-item expanded "><a href="../mains/grain-mustard-cabbage.html"><strong aria-hidden="true">4.2.</strong> Grain Mustard Cabbage with Hot and Sweet Sausage</a></li><li class="chapter-item expanded "><a href="../mains/quick-basic-pizza-dough.html"><strong aria-hidden="true">4.3.</strong> Quick Basic Pizza Dough</a></li></ol></li><li class="chapter-item expanded "><a href="../cocktails/cocktails.html"><strong aria-hidden="true">5.</strong> Cocktails</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../cocktails/thai-basil-gimlet.html"><strong aria-hidden="true">5.1.</strong> Thai Basil Gimlet</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Git Cookbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/RangerRick/git-cookbook" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ashkenazi-bagels-a-hrefhttpstwittercomseamusblackleystatus1371291739672125441sourcea"><a class="header" href="#ashkenazi-bagels-a-hrefhttpstwittercomseamusblackleystatus1371291739672125441sourcea">Ashkenazi Bagels (<a href="https://twitter.com/SeamusBlackley/status/1371291739672125441">source</a>)</a></h1>
+<p>Make delicious traditional bagels the way Polish Ashkenazi Jews do.</p>
+<p>While I have broken it down into a more standard recipe style, do yourself a favor and read <a href="https://twitter.com/SeamusBlackley/status/1371291739672125441">Seamus Blackley's original Twitter thread</a> -- it's not just a recipe, it's a history lesson and it's a fantastic read.</p>
+<h2 id="poolish-ingredients"><a class="header" href="#poolish-ingredients">Poolish Ingredients</a></h2>
+<ul>
+<li>275g all-purpose flour</li>
+<li>275g warm water</li>
+<li>5g active dry yeast</li>
+</ul>
+<h2 id="dough-ingredients"><a class="header" href="#dough-ingredients">Dough Ingredients</a></h2>
+<ul>
+<li>275g warm water</li>
+<li>10g Diastatic Malt Powder</li>
+<li>7g active dry yeast</li>
+<li>650g all-purpose flour</li>
+<li>15g salt</li>
+</ul>
+<h2 id="bagel-prep"><a class="header" href="#bagel-prep">Bagel Prep</a></h2>
+<ul>
+<li>Pale Malt Extract</li>
+<li>Toppings for dipping, like sesame seeds or &quot;everything&quot; mix (optional)</li>
+</ul>
+<h2 id="directions"><a class="header" href="#directions">Directions</a></h2>
+<h3 id="poolish"><a class="header" href="#poolish">Poolish</a></h3>
+<p>Start by putting the Poolish ingredients in a large bowl, mixing well.
+Cover, put in a cool place, and let stand for 8 hours.</p>
+<h3 id="dough"><a class="header" href="#dough">Dough</a></h3>
+<ol>
+<li>Add 275g warm water, diastatic malt powder, and yeast to the poolish.</li>
+<li>Add flour, plus any saved dough from last time (if any).</li>
+<li>Mix until loosely combined, cover, and let sit for 25 minutes.<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">Mix this mess together loosely. Just enough to look like this. Then LET IT SIT, covered, for 25 minutes. PROMISE ME you’ll do this. We are giving it a chance to kickstart microbial growth before adding the last ingredient... <a href="https://t.co/s4AqBvs0Z6">pic.twitter.com/s4AqBvs0Z6</a></p>&mdash; Seamus Blackley (@SeamusBlackley) <a href="https://twitter.com/SeamusBlackley/status/1371332872066396161?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li>Sprinkle 15g salt on top of the dough.</li>
+<li>Mix and fold for 2-3 minutes.<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">Now do some of this. You’re just mixing and folding. It will be sticky and a little ornery. That’s OK. Be patient, but you can sternly tell it to behave if that helps. About 2-3 minutes of this and you will see it change into a more dough-like object. <a href="https://t.co/egt9MxMHN9">pic.twitter.com/egt9MxMHN9</a></p>&mdash; Seamus Blackley (@SeamusBlackley) <a href="https://twitter.com/SeamusBlackley/status/1371335553619165184?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li><a href="https://twitter.com/SeamusBlackley/status/1371336764283965442">Knead for 5 minutes.</a></li>
+<li>Form up and oil the dough, cover it, and leave it in a cool place for 2 hours.</li>
+<li>Leave covered and put in the refrigerator for 2 hours, or overnight.
+(See notes below.)</li>
+</ol>
+<h3 id="making-the-bagels"><a class="header" href="#making-the-bagels">Making the Bagels</a></h3>
+<ol>
+<li>Spread some semolina on parchment paper.</li>
+<li>Cut off a strip of dough, and roll it up.<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">Do. This. <a href="https://t.co/mXJNzFnNYz">pic.twitter.com/mXJNzFnNYz</a></p>&mdash; Seamus Blackley (@SeamusBlackley) <a href="https://twitter.com/SeamusBlackley/status/1371347823824834563?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li>If there's a little left that doesn't make a whole bagel,
+save it in a ziploc bag for next time.</li>
+<li>Cover the rolled bagels with plastic wrap, let them rise for 40 minutes.</li>
+<li>Preheat the oven to 450° F.</li>
+<li>Fill a bowl with ice water. (I clean and reuse the bowl I made the dough in)</li>
+<li>Fill a pot with water and a dollop (~1tbsp or so) of malt syrup
+and bring to a boil.</li>
+<li>A few at a time, boil the bagels, 30 seconds on each side, flipping carefully.</li>
+<li>When finished boiling, transfer them to ice water.</li>
+<li>Set up the next bagels to boil, and then transfer the old ones
+from the water to the parchment.  If you are using toppings, dip
+the boiled bagel in the toppings and then place toppings-down.</li>
+<li>Bake for 4 minutes, and then flip.
+You should use a <a href="https://breadtopia.com/store/bagel-boards/">bagel board</a>
+to flip them if you've got them.</li>
+<li>Bake for another 18 minutes.</li>
+</ol>
+<h2 id="notes"><a class="header" href="#notes">Notes</a></h2>
+<p>These are actually pretty easy to make, but the timing can be tricky depending
+on when you want your bagels to be ready.  :)</p>
+<p>I've worked out a number of possible timelines below, but I've ended up doing the &quot;Full Overnight Rise&quot; method and it works out great.
+Between the final rise, boiling, and baking, I find it takes me an hour and a half to two hours to go from fridge to serving.</p>
+<h3 id="single-day-timeline"><a class="header" href="#single-day-timeline">Single Day Timeline</a></h3>
+<ul>
+<li>10am: start poolish, let sit for 8 hours</li>
+<li>6pm: mix loose dough, let sit for 25 minutes</li>
+<li>6:30pm: knead dough, clean and oil, cover and let rise for 2 hours</li>
+<li>8:30pm: put in fridge for 2 hours</li>
+<li>10:30pm: make bagels</li>
+</ul>
+<h3 id="overnight-poolish-timeline"><a class="header" href="#overnight-poolish-timeline">Overnight Poolish Timeline</a></h3>
+<ul>
+<li>11pm: start poolish, let sit for 8 hours</li>
+<li>7am: mix loose dough, let sit for 25 minutes</li>
+<li>7:30am: knead dough, clean and oil, cover and let rise for 2 hours</li>
+<li>9:30am: put in fridge for 2 hours</li>
+<li>11:30am: make bagels</li>
+</ul>
+<h3 id="full-overnight-rise-timeline"><a class="header" href="#full-overnight-rise-timeline">Full Overnight Rise Timeline</a></h3>
+<ul>
+<li>1pm: start poolish, let sit for 8 hours</li>
+<li>9pm: mix loose dough, let sit for 25 minutes</li>
+<li>9:30pm: knead dough, clean and oil, cover and let rise for 2 hours</li>
+<li>11:30pm: put in fridge for 8?? hours</li>
+<li>7am: make bagels</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../breads/breads.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../breads/soft-sandwich-milk-bread.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../breads/breads.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../breads/soft-sandwich-milk-bread.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
