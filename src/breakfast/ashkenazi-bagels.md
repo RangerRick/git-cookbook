@@ -1,4 +1,6 @@
 
+<!-- markdownlint-disable MD033 -->
+
 # Ashkenazi Bagels ([source](https://twitter.com/SeamusBlackley/status/1371291739672125441))
 
 Make delicious traditional bagels the way Polish Ashkenazi Jews do.

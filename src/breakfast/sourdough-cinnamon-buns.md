@@ -40,7 +40,7 @@ Note that if you use active dry yeast rather than instant, you should activate i
 
 ## Directions
 
-### Dough
+### Make the Dough
 
 Weigh your flour, or measure it by gently spooning it into a cup, then sweeping off any excess.
 Mix together all the dough ingredients except the salt (and yeast) until the flour is evenly moistened and the dough has formed a cohesive, sticky mass, 2 to 3 minutes on low speed of a stand mixer.
@@ -57,7 +57,7 @@ You can be fairly flexible in your timing of these, _but I cannot stress to you 
 One stretch and fold per hour is ideal.
 The goal is to end up with a strong dough with good elasticity.
 
-### Filling
+### Make the Filling
 
 Meanwhile, combine all the filling ingredients in a medium bowl.
 The texture will be somewhat like wet sand.
@@ -89,7 +89,7 @@ Bake the buns for 20 to 25 minutes, until golden.
 A digital thermometer inserted into the center of a middle bun should read 190°F.
 Remove the buns from the oven and cool for 5 to 10 minutes before icing.
 
-### Icing
+### Make the Icing
 
 While the buns are baking, stir together all the ingredients in a medium bowl until smooth.
 
