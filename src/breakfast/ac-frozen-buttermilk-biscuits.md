@@ -15,10 +15,19 @@ Use them to top a blueberry cobbler, or treat your biscuit dough like gnocchi, s
 
 ## Ingredients
 
+### Dough
+
 * 2½ lbs self-rising flour (9 cups), plus more if needed
-* 1 tbsp kosher salt
+* 1 tbsp (18g) kosher salt
 * 1 lb unsalted butter, frozen
 * 4 cups whole buttermilk
+
+### Self-Rising Flour Substitute
+
+If you don't have self-rising flour, whisk these into the flour as well:
+
+* 14tsp (43g) baking powder
+* 4.5tsp (27g) kosher salt
 
 ## Directions
 
