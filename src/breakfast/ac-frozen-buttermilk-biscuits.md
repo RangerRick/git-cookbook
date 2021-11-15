@@ -59,7 +59,6 @@ Instead of punching out the biscuit dough into rounds, cut it into strips about 
 Then cut each strip crosswise into 1-inch-long pieces (they’ll look like little dough pillows).
 Freeze as directed for the biscuits.
 
-
 ### Orange Biscuits
 
 In a medium bowl, combine ½ cup granulated sugar and the finely grated zest of 2 oranges.
