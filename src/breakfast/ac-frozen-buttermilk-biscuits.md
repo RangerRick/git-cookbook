@@ -1,6 +1,6 @@
 # Frozen Buttermilk Biscuits
 
-source: Christensen, Ashley; Goalen, Kaitlyn. It's Always Freezer Season (p. 57). Clarkson Potter/Ten Speed. Kindle Edition.
+source: [It's Always Freezer Season](https://ac-restaurants.myshopify.com/products/its-always-freezer-season-cookbook) (p. 57, Kindle edition). Christensen, Ashley; Goalen, Kaitlyn.
 
 Biscuits are one of those rare things that actually improve when frozen (pie dough and cookie dough also fall into this category).
 It’s likely about the butter.
