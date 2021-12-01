@@ -20,7 +20,7 @@ We prefer the texture that way.
 * 4–6 large hard-boiled eggs
 * 1 bunch curly kale, stems removed, torn into bite-size pieces
 * 1 lb. brussels sprouts, trimmed, thinly sliced
-* 1 cup store-bought or homemade hummus
+* 1 cup store-bought or [homemade](../snacks/black-bean-hummus.md) hummus
 * 1 cup seeds or nuts for topping
 * sea salt
 
