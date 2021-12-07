@@ -19,6 +19,7 @@
 - [Main Courses](./mains/mains.md)
   - [Detroit Style Pizza](./mains/detroit-style-pizza.md)
   - [Grain Mustard Cabbage with Hot and Sweet Sausage](./mains/grain-mustard-cabbage.md)
+  - [Instant Pot Zuppa Toscana (Olive Garden Copycat)](./mains/instant-pot-zuppa-toscana.md)
   - [Quick Basic Pizza Dough](./mains/quick-basic-pizza-dough.md)
   - [Winter Salad Hummus Bowl](./mains/winter-salad-hummus-bowl.md)
 
