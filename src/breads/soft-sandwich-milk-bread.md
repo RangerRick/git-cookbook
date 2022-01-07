@@ -11,10 +11,12 @@ The original recipe was for a Pullman pan, but I've decided to make normal loave
 ## Ingredients
 
 ### Tangzhong
+
 1 cup (240 ml) water
 1/3 cup (40 g) bread flour
 
 ### Dough
+
 * 1 cup (240 ml) half & half
 * 50g (1/4 cup) sugar
 * 4 1/2 teaspoons (14g or 2 packets) active dry yeast
@@ -25,6 +27,7 @@ The original recipe was for a Pullman pan, but I've decided to make normal loave
 * 4 tbsp (56 g or 1/2 stick) unsalted butter, softened
 
 ### Dough (Alternate Rye Version)
+
 * 1 cup (240 ml) half & half
 * 50g (1/4 cup) sugar
 * 4 1/2 teaspoons (14g or 2 packets) active dry yeast
@@ -91,4 +94,3 @@ Bake the bread for 30 to 35 minutes, until the bread is deep golden brown with a
 Remove the bread from the pans immediately after taking them out of the oven.
 
 Cool your Soft Sandwich Milk Bread completely before slicing. (I know, I'm sorry.)
-
