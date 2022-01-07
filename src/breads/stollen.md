@@ -1,5 +1,10 @@
 # German Christmas Stollen (Christstollen) ([source](https://www.daringgourmet.com/stollen-german-christmas-bread/))
 
+<span style="display:inline; float:right; width: 33%">
+<img src="./stollen2.jpg" alt="finished slice" width="100%"><br>
+<img src="./stollen1.jpg" alt="finished slice" width="100%">
+</span>
+
 Stollen is like if danish and fruitcake had a baby.
 A delicious, tasty baby.
 
