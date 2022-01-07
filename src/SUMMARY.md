@@ -4,11 +4,13 @@
 
 - [Breads](./breads/breads.md)
   - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)
+  - [German Christmas Stollen (Christstollen)](./breads/stollen.md)
   - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
 
 - [Breakfast](./breakfast/breakfast.md)
   - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)
   - [Frozen Buttermilk Biscuits](./breakfast/ac-frozen-buttermilk-biscuits.md)
+  - [German Christmas Stollen (Christstollen)](./breads/stollen.md)
   - [Sourdough Cinnamon Buns](./breakfast/sourdough-cinnamon-buns.md)
   - [Sourdough Discard Pancakes](./breakfast/sourdough-discard-pancakes.md)
 
