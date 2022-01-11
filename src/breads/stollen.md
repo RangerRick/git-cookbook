@@ -26,7 +26,8 @@ You can probably do it kneading by hand, but you'll probably want to add more fl
 
 * 250g (9oz) fruit
 
-  Personally, I use a combination of regular and golden raisins, currants, and
+  Personally, I use a combination of regular and golden raisins,
+  [currants](https://nuts.com/driedfruit/raisins/currants/1lb.html), and
   [glazed red cherries](https://nuts.com/driedfruit/glazedfruit/red-cherries.html).
 * 170g (6oz) candied citrus peel, finely diced
 
