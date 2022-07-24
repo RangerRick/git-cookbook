@@ -6,6 +6,7 @@
   - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)
   - [German Christmas Stollen (Christstollen)](./breads/stollen.md)
   - [Soft Sandwich Milk Bread](./breads/soft-sandwich-milk-bread.md)
+  - [Sourdough Baguettes](./breads/sourdough-baguettes.md)
 
 - [Breakfast](./breakfast/breakfast.md)
   - [Ashkenazi Bagels](./breakfast/ashkenazi-bagels.md)

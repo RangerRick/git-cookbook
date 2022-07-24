@@ -12,8 +12,8 @@ The original recipe was for a Pullman pan, but I've decided to make normal loave
 
 ### Tangzhong
 
-1 cup (240 ml) water
-1/3 cup (40 g) bread flour
+* 1 cup (240 ml) water
+* 1/3 cup (40 g) bread flour
 
 ### Dough
 
