@@ -115,7 +115,7 @@ While you wait, microwave a stick of butter until it melts.
 Generously brush the stollen with the melted butter while the stollen are still warm.
 Immediately sprinkle with a generous amount of powdered sugar, rubbing it into the creases and down the sides.
 Yes, you will get messy powdered-sugar-glazed hands when you're done.
-This is a feature, not a bug; you know what to do.
+This is a feature, not a bug; you know what to do. 😛
 
 Let the stollen cool completely.
 Once it has completely cooled, dust it with a layer of powdered sugar.
