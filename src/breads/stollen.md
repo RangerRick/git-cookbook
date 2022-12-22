@@ -80,7 +80,7 @@ Knead the dough in a stand mixer with a dough hook on the "bread" setting (2 on 
 You might think (like other doughs that use butter) that you would want to reserve the butter and add it a little at a time as it mixes, but I found that just delays how long it takes for things to integrate.
 Just make sure it's actually room temperature and give it some time, it will come together.
 
-Note that i deliberately have this be a _very_ wet dough, almost like cookie or brownie batter.
+Note that I deliberately have this be a _very_ wet dough, almost like cookie or brownie batter.
 It will be an unmanageable mess but the high moisture content is what gives it a dense-but-fluffy texture instead of too dry like a lot of stollen.
 
 Cover the bowl loosely with plastic wrap and place it in a warm place or lightly warmed oven to rise until nearly doubled in size, at least 1 hour.
