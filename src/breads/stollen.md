@@ -80,23 +80,23 @@ Knead the dough in a stand mixer with a dough hook on the "bread" setting (2 on 
 You might think (like other doughs that use butter) that you would want to reserve the butter and add it a little at a time as it mixes, but I found that just delays how long it takes for things to integrate.
 Just make sure it's actually room temperature and give it some time, it will come together.
 
-Cover loosely with plastic wrap and place it in a warm place or lightly warmed oven to rise until nearly doubled in size, at least 1 hour.
+Note that i deliberately have this be a _very_ wr dough, almost like cookie or brownie batter.
+It will be an unmanageable mess but the high moisture content is what gives it a dense-but-fluffy texture instead of too dry like a lot of stollen.
+
+Cover the bowl loosely with plastic wrap and place it in a warm place or lightly warmed oven to rise until nearly doubled in size, at least 1 hour.
 If your oven has a "bread proof" mode, use that.
 If not, put the bowl in the oven and then turn the oven light on.
 
 ### Making the Loaf (Second Rise)
 
-Punch down the dough and add the soaked fruit/nut mixture to the dough.
-It should have absorbed all the rum by now, but if there is excess liquid, pour it out before adding the mixture to the dough.
-_Note: the original instructions say to do this, but I never have bothered.
-The dough is wet, but there's so much butter in it, I'm still able to shape it._
+Add the soaked fruit/nut mixture to the dough.
+It should have absorbed all the rum by now, but if there is excess liquid, I just pour it all in anyway.
 
-Using the dough hook, knead the fruit/nut mixture into the dough until combined.
-If the dough is too wet to handle, add a little bit of flour until the dough pulls away from the sides of the bowl.
-_Even when the dough is very wet, if I use a spatula to scrape the edges, it does still pull away from the bowl just fine. I just roll with it as-is._
+Using the dough hook, mix the fruit/nut mixture into the dough until combined.
+If the dough is too wet to handle, just use a spatula to scrape the edges, it does still pull away from the bowl just fine.
 
 Turn the dough out onto a floured work surface and cut it in two equal halves.
-Press or roll each piece into an oval to about 1 inch thickness.
+Shape each piece into an oval about 1 inch in thickness.
 
 Place each of the stollen on a parchment-lined baking sheet.
 Cover the stollen loosely with plastic wrap and let them rest in a warm place or lightly warmed oven for 40-60 minutes until puffy.
