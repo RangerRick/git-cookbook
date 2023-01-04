@@ -1,6 +1,6 @@
 # German Christmas Stollen (Christstollen) ([source](https://www.daringgourmet.com/stollen-german-christmas-bread/))
 
-<span style="display:inline; float:right; width: 33%">
+<span style="display:inline; float:right; width: 33%; margin: 5px;">
 <img src="./stollen2.jpg" alt="finished slice" width="100%"><br>
 <img src="./stollen1.jpg" alt="finished slice" width="100%">
 </span>
@@ -80,7 +80,9 @@ Knead the dough in a stand mixer with a dough hook on the "bread" setting (2 on 
 You might think (like other doughs that use butter) that you would want to reserve the butter and add it a little at a time as it mixes, but I found that just delays how long it takes for things to integrate.
 Just make sure it's actually room temperature and give it some time, it will come together.
 
-Note that I deliberately have this be a _very_ wet dough, almost like cookie or brownie batter.
+I deliberately have this be a _very_ wet dough, wetter than the original recipe wants.
+Depending on your flour and butter it almost ends up like cookie or brownie batter.
+I have found it behaves very differently depending on whether I use regular Land O' Lakes or good European-style Kerrygold or similar.
 It will be an unmanageable mess but the high moisture content is what gives it a dense-but-fluffy texture instead of too dry like a lot of stollen.
 
 Cover the bowl loosely with plastic wrap and place it in a warm place or lightly warmed oven to rise until nearly doubled in size, at least 1 hour.
