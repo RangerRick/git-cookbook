@@ -44,6 +44,7 @@ You can probably do it kneading by hand, but you'll probably want to add more fl
 * 3 tsp active dry yeast
 * 1/2 cup granulated sugar
 * 480g (4 cups) all-purpose flour
+* 2 tbsp milk powder (optional)
 * zest of one lemon
 * 1 tsp salt
 * 1 tsp ground cardamom
@@ -53,6 +54,7 @@ You can probably do it kneading by hand, but you'll probably want to add more fl
 * 2 large egg yolks
 * 1 1/2 sticks (3/4 cup) at room temperature
 * 2 tsp vanilla extract
+* 1/2 tsp lemon extract (optional)
 
 ### Glaze & Dusting
 
@@ -72,9 +74,9 @@ Stir the yeast and 2 tablespoons of the sugar into the lukewarm milk and let sit
 
 ### Making the Dough (First Rise)
 
-Place the dry ingredients in the mixer bowl: flour, remaining sugar, lemon zest, sart, cardamom, mace, and cinnamon.
+Place the dry ingredients in the mixer bowl: flour, optional milk powder, remaining sugar, lemon zest, sart, cardamom, mace, and cinnamon.
 
-Add the wet ingredients to the mixer bowl: egg, egg yolks, butter, vanilla extract, yeast/milk mixture.
+Add the wet ingredients to the mixer bowl: egg, egg yolks, butter, vanilla and lemon extracts, yeast/milk mixture.
 
 Knead the dough in a stand mixer with a dough hook on the "bread" setting (2 on our Kitchenaid) for 10 minutes, making sure everything integrates well.
 You might think (like other doughs that use butter) that you would want to reserve the butter and add it a little at a time as it mixes, but I found that just delays how long it takes for things to integrate.
