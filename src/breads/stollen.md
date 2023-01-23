@@ -68,7 +68,7 @@ You can probably do it kneading by hand, but you'll probably want to add more fl
 Place the fruit, candied citrus peel, and almonds in a medium bowl and pour the rum over it.
 Stir to combine.
 Set aside and let the fruit mixture soak in the rum while the dough rises.
-If you have ADD, stir this mixture occasionally to make sure the fruit gets well-covered while doing the rest of the recipe.
+If you have ADHD, stir this mixture every 10 minutes to obsessively make sure the fruit gets well-covered while doing the rest of the recipe.
 
 Stir the yeast and 2 tablespoons of the sugar into the lukewarm milk and let sit in a warm place for 10-15 minutes until very frothy.
 
